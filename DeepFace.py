@@ -150,9 +150,14 @@ for epoch in range(25):
             fake = NetG(noise)
             torchvision.utils.save_image(fake.data, '%s/fake_samples_epoch_%03d.png' % ("datasets/img_align_celeba/Generated/", epoch), normalize = True)
             
+        
             
+# Saving the model parameters.
+save_path_D = 'datasets/img_align_celeba/model_D.pth'
+save_path_G = 'datasets/img_align_celeba/model_G.pth'            
             
-            
+torch.save(NetD.state_dict(), save_path_D)
+torch.save(NetG.state_dict(), save_path_G)            
             
             
             
