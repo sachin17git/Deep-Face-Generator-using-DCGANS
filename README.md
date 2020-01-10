@@ -5,6 +5,7 @@ The dataset for this model was taken from Kaggle. Link - https://www.kaggle.com/
 
 This model was trained for several epochs on dedicated GPU. The more you train higher will be the accuracy.
 ### Sample Training Images
+![real_samples](https://user-images.githubusercontent.com/40026126/72149643-9d605280-33c9-11ea-8b2e-9f777a14168b.png)
 
 
 ### Here are the generated faces for different epochs.
