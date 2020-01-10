@@ -6,6 +6,7 @@ This model was trained for several epochs on dedicated GPU. The more you train h
 #### Here are the sample generated images for different epochs.
 #### For higher Epochs the model will produce more realistic images.
 ### Epoch 10
+![fake_samples_epoch_010](https://user-images.githubusercontent.com/40026126/72149424-20cd7400-33c9-11ea-9412-60c0027dc80f.png)
 
 
 ### Epoch 25 
