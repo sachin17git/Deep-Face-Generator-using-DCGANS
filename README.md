@@ -10,10 +10,8 @@ This model was trained for several epochs on dedicated GPU. The more you train h
 
 ### Here are the generated faces for different epochs.
 ### For higher Epochs the model will produce more realistic images.
-### Epoch 10
-![fake_samples_epoch_010](https://user-images.githubusercontent.com/40026126/72149424-20cd7400-33c9-11ea-9412-60c0027dc80f.png)
-
-
-### Epoch 25 
+### Epoch 25
 ![fake_samples_epoch_024](https://user-images.githubusercontent.com/40026126/72149210-a270d200-33c8-11ea-899b-b538edc746b9.png)
 
+### Epoch 10 
+![fake_samples_epoch_010](https://user-images.githubusercontent.com/40026126/72149424-20cd7400-33c9-11ea-9412-60c0027dc80f.png)
